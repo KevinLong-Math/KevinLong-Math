@@ -1,7 +1,7 @@
 Hi, I’m @KevinLong-Math
-I’m interested in ... Machine learning, Data Science, Pure and Applied math
-I’m currently learning ... Machine Learning, Google Cloud Platform.
-I’m looking to collaborate on ... Anything relating to Pure and Applied math and Machine Learning
+I’m interested in ...  Data Science, Pure and Applied math
+I’m currently learning ... Statistics and Data Science
+I’m looking to collaborate on ... Anything relating to Data Science
 How to reach me ... email is kevlong@ucdavis.edu
 
 <!---
